@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../javafx-sdk-19/lib" />
+      <root url="jar://$PROJECT_DIR$/../../jar_files (1)/mysql-connector-java-8.0.30.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../javafx-sdk-19/lib" recursive="false" />
+  </library>
+</component>

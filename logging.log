@@ -1,0 +1,1782 @@
+2022-12-17 23:53:31 INFO  BoardController:131 - Zaladowano gre na poziomie srednim
+2022-12-17 23:53:31 INFO  BoardController:88 - Stworzono sudoku
+2022-12-17 23:53:34 INFO  BoardController:151 - Wybrano jezyk polski
+2022-12-17 23:53:34 INFO  BoardController:143 - Wybrano jezyk angielski
+2022-12-17 23:53:34 INFO  BoardController:151 - Wybrano jezyk polski
+2022-12-17 23:53:35 INFO  BoardController:143 - Wybrano jezyk angielski
+2022-12-17 23:53:35 INFO  BoardController:119 - Zaladowano gre na poziomie trudnym
+2022-12-17 23:53:35 INFO  BoardController:88 - Stworzono sudoku
+2022-12-17 23:53:36 INFO  BoardController:137 - Wybrano sprawdzenie tablicy
+2022-12-18 14:52:15 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-18 14:52:15 INFO  BoardController:91 - Stworzono sudoku
+2022-12-18 14:53:01 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-18 14:53:01 INFO  BoardController:91 - Stworzono sudoku
+2022-12-18 14:54:37 INFO  Controller:107 - Zaladowano gre na poziomie latwym
+2022-12-18 14:54:37 INFO  BoardController:91 - Stworzono sudoku
+2022-12-18 14:54:51 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-18 14:54:51 INFO  BoardController:91 - Stworzono sudoku
+2022-12-18 15:11:50 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-18 15:11:50 INFO  BoardController:91 - Stworzono sudoku
+2022-12-18 19:30:59 INFO  Controller:107 - Zaladowano gre na poziomie latwym
+2022-12-18 19:30:59 INFO  BoardController:87 - Stworzono sudoku
+2022-12-18 19:31:00 INFO  BoardController:147 - Wybrano sprawdzenie tablicy
+2022-12-18 19:31:03 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-18 19:31:03 INFO  BoardController:87 - Stworzono sudoku
+2022-12-18 19:31:04 INFO  BoardController:147 - Wybrano sprawdzenie tablicy
+2022-12-18 19:31:09 INFO  Controller:107 - Zaladowano gre na poziomie latwym
+2022-12-18 19:31:09 INFO  BoardController:87 - Stworzono sudoku
+2022-12-18 19:40:27 INFO  Controller:107 - Zaladowano gre na poziomie latwym
+2022-12-18 19:40:27 INFO  BoardController:87 - Stworzono sudoku
+2022-12-18 19:40:29 INFO  BoardController:154 - Wybrano sprawdzenie tablicy
+2022-12-18 19:42:12 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-18 19:42:12 INFO  BoardController:87 - Stworzono sudoku
+2022-12-18 19:42:13 INFO  BoardController:154 - Wybrano sprawdzenie tablicy
+2022-12-18 19:42:28 INFO  Controller:107 - Zaladowano gre na poziomie latwym
+2022-12-18 19:42:28 INFO  BoardController:87 - Stworzono sudoku
+2022-12-18 19:42:30 INFO  BoardController:154 - Wybrano sprawdzenie tablicy
+2022-12-18 19:43:13 INFO  Controller:107 - Zaladowano gre na poziomie latwym
+2022-12-18 19:43:13 INFO  BoardController:87 - Stworzono sudoku
+2022-12-18 19:43:15 INFO  BoardController:154 - Wybrano sprawdzenie tablicy
+2022-12-18 19:44:53 INFO  Controller:107 - Zaladowano gre na poziomie latwym
+2022-12-18 19:44:53 INFO  BoardController:87 - Stworzono sudoku
+2022-12-18 19:44:54 INFO  BoardController:154 - Wybrano sprawdzenie tablicy
+2022-12-18 19:47:34 INFO  Controller:107 - Zaladowano gre na poziomie latwym
+2022-12-18 19:47:34 INFO  BoardController:87 - Stworzono sudoku
+2022-12-18 19:47:35 INFO  BoardController:162 - Wybrano sprawdzenie tablicy
+2022-12-18 19:48:11 INFO  Controller:107 - Zaladowano gre na poziomie latwym
+2022-12-18 19:48:11 INFO  BoardController:87 - Stworzono sudoku
+2022-12-18 19:48:12 INFO  BoardController:162 - Wybrano sprawdzenie tablicy
+2022-12-18 19:48:57 INFO  Controller:107 - Zaladowano gre na poziomie latwym
+2022-12-18 19:48:57 INFO  BoardController:87 - Stworzono sudoku
+2022-12-18 19:48:58 INFO  BoardController:155 - Wybrano sprawdzenie tablicy
+2022-12-18 19:49:11 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-18 19:49:11 INFO  BoardController:87 - Stworzono sudoku
+2022-12-18 19:49:11 INFO  BoardController:155 - Wybrano sprawdzenie tablicy
+2022-12-18 19:49:14 INFO  BoardController:155 - Wybrano sprawdzenie tablicy
+2022-12-18 19:49:16 INFO  BoardController:155 - Wybrano sprawdzenie tablicy
+2022-12-18 19:50:37 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-18 19:50:37 INFO  BoardController:87 - Stworzono sudoku
+2022-12-18 19:50:38 INFO  BoardController:155 - Wybrano sprawdzenie tablicy
+2022-12-18 19:56:31 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-18 19:56:31 INFO  BoardController:87 - Stworzono sudoku
+2022-12-18 19:56:32 INFO  BoardController:155 - Wybrano sprawdzenie tablicy
+2022-12-18 20:00:36 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-18 20:00:36 INFO  BoardController:87 - Stworzono sudoku
+2022-12-18 20:00:37 INFO  BoardController:154 - Wybrano sprawdzenie tablicy
+2022-12-18 20:00:58 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-18 20:00:58 INFO  BoardController:87 - Stworzono sudoku
+2022-12-19 01:31:38 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 01:31:38 INFO  BoardController:87 - Stworzono sudoku
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 3
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 7
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 5
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 2
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 8
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 1
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 2
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 8
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 9
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 6
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 8
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 1
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 7
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 2
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 4
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 8
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 7
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 4
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 5
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 6
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 9
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 1
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 3
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 8
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 7
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 8
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 1
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 4
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 7
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 2
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 6
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 1
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 4
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 5
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 9
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 6
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 4
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 3
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 5
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 7
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 0
+2022-12-19 01:31:38 INFO  BoardController:98 - textfield changed from  to 1
+2022-12-19 01:31:44 INFO  BoardController:98 - textfield changed from 0 to 
+2022-12-19 01:31:44 INFO  BoardController:98 - textfield changed from  to 5
+2022-12-19 01:32:24 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 01:32:24 INFO  BoardController:87 - Stworzono sudoku
+2022-12-19 01:32:26 INFO  BoardController:107 - textfield changed from 0 to 
+2022-12-19 01:32:26 INFO  BoardController:107 - textfield changed from  to 2
+2022-12-19 01:32:28 INFO  BoardController:107 - textfield changed from 2 to 
+2022-12-19 01:32:28 INFO  BoardController:107 - textfield changed from  to x
+2022-12-19 01:32:28 INFO  BoardController:107 - textfield changed from x to 
+2022-12-19 01:32:29 INFO  BoardController:107 - textfield changed from  to 0
+2022-12-19 01:36:36 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 01:36:36 INFO  BoardController:87 - Stworzono sudoku
+2022-12-19 01:36:41 INFO  BoardController:108 - textfield changed from  to 4
+2022-12-19 01:36:43 INFO  BoardController:108 - textfield changed from  to 4
+2022-12-19 01:40:07 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 01:40:07 INFO  BoardController:87 - Stworzono sudoku
+2022-12-19 01:40:09 INFO  BoardController:107 - textfield changed from 0 to 
+2022-12-19 01:40:09 INFO  BoardController:107 - textfield changed from  to 5
+2022-12-19 01:40:10 INFO  BoardController:107 - textfield changed from 5 to 
+2022-12-19 01:42:53 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 01:42:53 INFO  BoardController:89 - Stworzono sudoku
+2022-12-19 01:49:22 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 01:49:22 INFO  BoardController:87 - Stworzono sudoku
+2022-12-19 01:49:24 INFO  BoardController:107 - textfield changed from 0 to 
+2022-12-19 01:49:46 INFO  BoardController:107 - textfield changed from  to 1
+2022-12-19 01:50:00 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 01:50:00 INFO  BoardController:87 - Stworzono sudoku
+2022-12-19 01:50:03 INFO  BoardController:107 - textfield changed from 0 to 01
+2022-12-19 01:50:04 INFO  BoardController:107 - textfield changed from 01 to 1
+2022-12-19 01:51:04 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 01:51:04 INFO  BoardController:87 - Stworzono sudoku
+2022-12-19 01:51:07 INFO  BoardController:107 - textfield changed from 0 to 
+2022-12-19 01:53:00 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 01:53:00 INFO  BoardController:87 - Stworzono sudoku
+2022-12-19 01:53:02 INFO  BoardController:107 - textfield changed from 0 to 
+2022-12-19 01:53:03 INFO  BoardController:107 - textfield changed from  to 4
+2022-12-19 01:53:11 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 01:53:11 INFO  BoardController:87 - Stworzono sudoku
+2022-12-19 01:53:29 INFO  BoardController:159 - Wybrano sprawdzenie tablicy
+2022-12-19 01:54:58 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 01:54:58 INFO  BoardController:87 - Stworzono sudoku
+2022-12-19 01:55:04 INFO  BoardController:102 - Zmiana pola z 0 na 
+2022-12-19 01:55:06 INFO  BoardController:102 - Zmiana pola z  na 4
+2022-12-19 01:55:13 INFO  BoardController:102 - Zmiana pola z 0 na 
+2022-12-19 01:55:14 INFO  BoardController:102 - Zmiana pola z  na 2
+2022-12-19 01:55:18 INFO  BoardController:159 - Wybrano sprawdzenie tablicy
+2022-12-19 01:55:28 INFO  Controller:143 - Wybrano jezyk angielski
+2022-12-19 01:55:29 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 01:55:30 INFO  Controller:143 - Wybrano jezyk angielski
+2022-12-19 01:55:30 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 01:55:31 INFO  Controller:143 - Wybrano jezyk angielski
+2022-12-19 02:04:28 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 02:04:28 INFO  BoardController:87 - Stworzono sudoku
+2022-12-19 02:04:31 INFO  BoardController:102 - Zmiana pola z 0 na 
+2022-12-19 02:04:32 INFO  BoardController:102 - Zmiana pola z  na 7
+2022-12-19 02:04:33 INFO  BoardController:159 - Wybrano sprawdzenie tablicy
+2022-12-19 02:04:53 INFO  Controller:107 - Zaladowano gre na poziomie latwym
+2022-12-19 02:04:53 INFO  BoardController:87 - Stworzono sudoku
+2022-12-19 02:04:58 INFO  BoardController:102 - Zmiana pola z 0 na 
+2022-12-19 02:05:03 INFO  BoardController:102 - Zmiana pola z  na u
+2022-12-19 02:05:03 INFO  BoardController:102 - Zmiana pola z u na 
+2022-12-19 02:05:04 INFO  BoardController:102 - Zmiana pola z  na 7
+2022-12-19 02:05:06 INFO  BoardController:159 - Wybrano sprawdzenie tablicy
+2022-12-19 02:05:28 INFO  Controller:107 - Zaladowano gre na poziomie latwym
+2022-12-19 02:05:28 INFO  BoardController:87 - Stworzono sudoku
+2022-12-19 02:08:28 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 02:08:28 INFO  BoardController:88 - Stworzono sudoku
+2022-12-19 02:08:30 INFO  BoardController:103 - Zmiana pola z 0 na 
+2022-12-19 02:08:31 INFO  BoardController:103 - Zmiana pola z  na u
+2022-12-19 02:08:31 INFO  BoardController:103 - Zmiana pola z u na ux
+2022-12-19 02:08:32 INFO  BoardController:103 - Zmiana pola z ux na u
+2022-12-19 02:08:32 INFO  BoardController:103 - Zmiana pola z u na 
+2022-12-19 02:08:34 INFO  BoardController:103 - Zmiana pola z  na x
+2022-12-19 02:08:34 INFO  BoardController:103 - Zmiana pola z x na 
+2022-12-19 02:08:37 INFO  BoardController:103 - Zmiana pola z  na 5
+2022-12-19 02:08:38 INFO  BoardController:103 - Zmiana pola z 5 na 
+2022-12-19 02:08:40 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 02:08:41 INFO  Controller:143 - Wybrano jezyk angielski
+2022-12-19 02:08:41 INFO  Controller:143 - Wybrano jezyk angielski
+2022-12-19 02:08:43 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 02:08:44 INFO  Controller:107 - Zaladowano gre na poziomie latwym
+2022-12-19 02:08:44 INFO  BoardController:88 - Stworzono sudoku
+2022-12-19 02:09:01 INFO  BoardController:103 - Zmiana pola z 0 na 
+2022-12-19 02:10:09 INFO  Controller:107 - Zaladowano gre na poziomie latwym
+2022-12-19 02:10:10 INFO  BoardController:88 - Stworzono sudoku
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:12 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:13 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:14 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:15 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:16 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 9
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 5
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 7
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 2
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 8
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 3
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 4
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 6
+2022-12-19 02:10:19 INFO  BoardController:137 - Zmiana pola na 1
+2022-12-19 02:11:20 INFO  Controller:107 - Zaladowano gre na poziomie latwym
+2022-12-19 02:11:20 INFO  BoardController:88 - Stworzono sudoku
+2022-12-19 02:11:22 INFO  BoardController:103 - Zmiana pola z 0 na 
+2022-12-19 02:11:25 INFO  BoardController:103 - Zmiana pola z  na x
+2022-12-19 02:11:26 INFO  BoardController:103 - Zmiana pola z x na 
+2022-12-19 02:11:29 INFO  BoardController:103 - Zmiana pola z  na 8
+2022-12-19 02:11:31 INFO  BoardController:160 - Wybrano sprawdzenie tablicy
+2022-12-19 02:16:57 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 02:16:58 INFO  BoardController:88 - Stworzono sudoku
+2022-12-19 02:17:00 INFO  BoardController:160 - Wybrano sprawdzenie tablicy
+2022-12-19 02:17:06 INFO  BoardController:160 - Wybrano sprawdzenie tablicy
+2022-12-19 02:17:40 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 02:17:40 INFO  BoardController:88 - Stworzono sudoku
+2022-12-19 02:17:41 INFO  BoardController:160 - Wybrano sprawdzenie tablicy
+2022-12-19 02:17:41 INFO  BoardController:45 - Sprawdzenie - przegrana.
+2022-12-19 02:17:44 INFO  BoardController:160 - Wybrano sprawdzenie tablicy
+2022-12-19 02:17:44 INFO  BoardController:45 - Sprawdzenie - przegrana.
+2022-12-19 02:18:44 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 02:18:44 INFO  BoardController:88 - Stworzono sudoku
+2022-12-19 02:18:46 INFO  BoardController:160 - Wybrano sprawdzenie tablicy
+2022-12-19 02:18:46 INFO  Lose:45 - Sprawdzenie - przegrana.
+2022-12-19 02:18:50 INFO  Controller:107 - Zaladowano gre na poziomie latwym
+2022-12-19 02:18:50 INFO  BoardController:88 - Stworzono sudoku
+2022-12-19 02:18:59 INFO  BoardController:103 - Zmiana pola z 0 na 
+2022-12-19 02:19:00 INFO  BoardController:103 - Zmiana pola z  na x
+2022-12-19 02:19:00 INFO  BoardController:103 - Zmiana pola z x na 
+2022-12-19 02:19:03 INFO  BoardController:103 - Zmiana pola z  na x
+2022-12-19 02:19:04 INFO  BoardController:103 - Zmiana pola z x na 
+2022-12-19 02:19:09 INFO  BoardController:103 - Zmiana pola z  na x
+2022-12-19 02:19:09 INFO  BoardController:103 - Zmiana pola z x na 
+2022-12-19 02:19:31 INFO  BoardController:103 - Zmiana pola z  na 9
+2022-12-19 02:19:32 INFO  BoardController:160 - Wybrano sprawdzenie tablicy
+2022-12-19 02:19:32 INFO  Win:45 - Sprawdzenie - wygrana.
+2022-12-19 02:19:42 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 02:19:42 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 02:19:43 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 02:19:44 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 02:19:44 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 02:19:45 INFO  Controller:143 - Wybrano jezyk angielski
+2022-12-19 02:19:45 INFO  Controller:143 - Wybrano jezyk angielski
+2022-12-19 02:19:45 INFO  Controller:143 - Wybrano jezyk angielski
+2022-12-19 02:19:46 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 02:19:47 INFO  Controller:143 - Wybrano jezyk angielski
+2022-12-19 02:19:47 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 02:19:47 INFO  Controller:143 - Wybrano jezyk angielski
+2022-12-19 02:19:48 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 02:19:48 INFO  Controller:143 - Wybrano jezyk angielski
+2022-12-19 02:19:48 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 02:19:48 INFO  Controller:143 - Wybrano jezyk angielski
+2022-12-19 02:19:49 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 02:19:49 INFO  Controller:143 - Wybrano jezyk angielski
+2022-12-19 02:19:49 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 02:19:50 INFO  Controller:143 - Wybrano jezyk angielski
+2022-12-19 02:19:50 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 02:19:50 INFO  Controller:143 - Wybrano jezyk angielski
+2022-12-19 02:19:50 INFO  Controller:143 - Wybrano jezyk angielski
+2022-12-19 02:19:51 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 02:19:51 INFO  Controller:143 - Wybrano jezyk angielski
+2022-12-19 02:19:52 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 02:19:52 INFO  Controller:143 - Wybrano jezyk angielski
+2022-12-19 02:19:53 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 02:19:54 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 02:19:54 INFO  BoardController:88 - Stworzono sudoku
+2022-12-19 02:19:55 INFO  BoardController:160 - Wybrano sprawdzenie tablicy
+2022-12-19 02:19:55 INFO  Lose:45 - Sprawdzenie - przegrana.
+2022-12-19 02:20:05 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 02:20:05 INFO  BoardController:88 - Stworzono sudoku
+2022-12-19 02:23:37 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 02:23:37 INFO  BoardController:88 - Stworzono sudoku
+2022-12-19 02:23:44 INFO  BoardController:103 - Zmiana pola z 0 na 
+2022-12-19 02:23:44 INFO  BoardController:103 - Zmiana pola z  na 2
+2022-12-19 02:23:48 INFO  BoardController:103 - Zmiana pola z 0 na 
+2022-12-19 02:23:48 INFO  BoardController:103 - Zmiana pola z  na 4
+2022-12-19 02:23:48 INFO  BoardController:103 - Zmiana pola z 4 na 44
+2022-12-19 02:23:50 INFO  BoardController:103 - Zmiana pola z 44 na 444
+2022-12-19 02:23:50 INFO  BoardController:103 - Zmiana pola z 444 na 4444
+2022-12-19 02:23:50 INFO  BoardController:103 - Zmiana pola z 4444 na 44444
+2022-12-19 16:12:04 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:12:04 INFO  BoardController:89 - Stworzono sudoku
+2022-12-19 16:12:13 INFO  BoardController:185 - Wybrano sprawdzenie tablicy
+2022-12-19 16:12:13 INFO  Lose:45 - Sprawdzenie - przegrana.
+2022-12-19 16:12:24 INFO  BoardController:104 - Zmiana pola z 0 na 
+2022-12-19 16:12:24 INFO  BoardController:104 - Zmiana pola z  na 2
+2022-12-19 16:13:52 INFO  Controller:107 - Zaladowano gre na poziomie latwym
+2022-12-19 16:13:52 INFO  BoardController:89 - Stworzono sudoku
+2022-12-19 16:13:59 INFO  BoardController:127 - Zmiana pola z 0 na 
+2022-12-19 16:14:00 INFO  BoardController:127 - Zmiana pola z  na 2
+2022-12-19 16:14:08 INFO  BoardController:127 - Zmiana pola z 0 na 
+2022-12-19 16:14:08 INFO  BoardController:127 - Zmiana pola z  na 1
+2022-12-19 16:14:10 INFO  BoardController:127 - Zmiana pola z 0 na 
+2022-12-19 16:14:10 INFO  BoardController:127 - Zmiana pola z  na 1
+2022-12-19 16:20:51 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:20:51 INFO  BoardController:89 - Stworzono sudoku
+2022-12-19 16:20:54 INFO  BoardController:104 - Zmiana pola z 0 na 
+2022-12-19 16:20:54 INFO  BoardController:104 - Zmiana pola z  na 5
+2022-12-19 16:20:55 INFO  BoardController:104 - Zmiana pola z 5 na 
+2022-12-19 16:20:55 INFO  BoardController:104 - Zmiana pola z  na 3
+2022-12-19 16:20:57 INFO  BoardController:104 - Zmiana pola z 3 na 
+2022-12-19 16:21:02 INFO  BoardController:104 - Zmiana pola z  na 5
+2022-12-19 16:21:02 INFO  BoardController:104 - Zmiana pola z 5 na 56
+2022-12-19 16:21:04 INFO  BoardController:104 - Zmiana pola z 56 na 6
+2022-12-19 16:21:06 INFO  BoardController:185 - Wybrano sprawdzenie tablicy
+2022-12-19 16:21:06 INFO  Lose:45 - Sprawdzenie - przegrana.
+2022-12-19 16:21:08 INFO  Controller:107 - Zaladowano gre na poziomie latwym
+2022-12-19 16:21:08 INFO  BoardController:89 - Stworzono sudoku
+2022-12-19 16:21:10 INFO  BoardController:185 - Wybrano sprawdzenie tablicy
+2022-12-19 16:21:10 INFO  Lose:45 - Sprawdzenie - przegrana.
+2022-12-19 16:21:16 INFO  Controller:143 - Wybrano jezyk angielski
+2022-12-19 16:21:17 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 16:22:48 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:22:48 INFO  BoardController:89 - Stworzono sudoku
+2022-12-19 16:22:50 INFO  BoardController:104 - Zmiana pola z 0 na 
+2022-12-19 16:22:50 INFO  BoardController:104 - Zmiana pola z  na 5
+2022-12-19 16:23:00 INFO  BoardController:127 - Zmiana pola z 0 na 
+2022-12-19 16:23:01 INFO  BoardController:127 - Zmiana pola z  na 4
+2022-12-19 16:23:05 INFO  BoardController:127 - Zmiana pola z 0 na 
+2022-12-19 16:23:05 INFO  BoardController:127 - Zmiana pola z  na 3
+2022-12-19 16:23:10 INFO  BoardController:127 - Zmiana pola z 0 na 0\
+2022-12-19 16:23:10 INFO  BoardController:127 - Zmiana pola z 0\ na 0
+2022-12-19 16:23:10 INFO  BoardController:127 - Zmiana pola z 0 na 
+2022-12-19 16:23:10 INFO  BoardController:127 - Zmiana pola z  na 3
+2022-12-19 16:23:21 INFO  Controller:107 - Zaladowano gre na poziomie latwym
+2022-12-19 16:23:21 INFO  BoardController:89 - Stworzono sudoku
+2022-12-19 16:23:23 INFO  BoardController:104 - Zmiana pola z 0 na 
+2022-12-19 16:23:23 INFO  BoardController:104 - Zmiana pola z  na 2
+2022-12-19 16:23:28 INFO  BoardController:104 - Zmiana pola z 2 na 
+2022-12-19 16:23:28 INFO  BoardController:104 - Zmiana pola z  na 3
+2022-12-19 16:26:00 INFO  Controller:107 - Zaladowano gre na poziomie latwym
+2022-12-19 16:26:00 INFO  BoardController:89 - Stworzono sudoku
+2022-12-19 16:26:03 INFO  BoardController:104 - Zmiana pola z 0 na 
+2022-12-19 16:26:03 INFO  BoardController:104 - Zmiana pola z  na 2
+2022-12-19 16:26:06 INFO  BoardController:104 - Zmiana pola z 2 na 
+2022-12-19 16:26:06 INFO  BoardController:104 - Zmiana pola z  na 0
+2022-12-19 16:26:10 INFO  BoardController:127 - Zmiana pola z 0 na 
+2022-12-19 16:26:10 INFO  BoardController:127 - Zmiana pola z  na 2
+2022-12-19 16:26:56 INFO  Controller:107 - Zaladowano gre na poziomie latwym
+2022-12-19 16:26:56 INFO  BoardController:89 - Stworzono sudoku
+2022-12-19 16:26:58 INFO  BoardController:104 - Zmiana pola z 0 na 
+2022-12-19 16:26:58 INFO  BoardController:104 - Zmiana pola z  na 2
+2022-12-19 16:27:06 INFO  BoardController:104 - Zmiana pola z 2 na 20
+2022-12-19 16:29:18 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:29:18 INFO  BoardController:89 - Stworzono sudoku
+2022-12-19 16:29:22 INFO  BoardController:127 - Zmiana pola z 0 na 
+2022-12-19 16:29:23 INFO  BoardController:127 - Zmiana pola z  na y
+2022-12-19 16:29:24 INFO  BoardController:127 - Zmiana pola z y na 
+2022-12-19 16:29:24 INFO  BoardController:127 - Zmiana pola z  na 6
+2022-12-19 16:31:48 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 16:31:49 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:31:49 INFO  BoardController:91 - Stworzono sudoku
+2022-12-19 16:31:54 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 16:31:54 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:31:54 INFO  BoardController:91 - Stworzono sudoku
+2022-12-19 16:31:58 INFO  BoardController:187 - Wybrano sprawdzenie tablicy
+2022-12-19 16:31:58 INFO  Lose:45 - Sprawdzenie - przegrana.
+2022-12-19 16:32:10 INFO  Controller:143 - Wybrano jezyk angielski
+2022-12-19 16:32:11 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:32:11 INFO  BoardController:91 - Stworzono sudoku
+2022-12-19 16:32:14 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 16:32:15 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:32:15 INFO  BoardController:91 - Stworzono sudoku
+2022-12-19 16:32:49 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:32:50 INFO  BoardController:91 - Stworzono sudoku
+2022-12-19 16:32:53 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 16:32:53 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:32:53 INFO  BoardController:91 - Stworzono sudoku
+2022-12-19 16:34:08 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 16:34:08 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:34:08 INFO  BoardController:91 - Stworzono sudoku
+2022-12-19 16:34:44 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:34:44 INFO  BoardController:94 - Stworzono sudoku
+2022-12-19 16:34:46 INFO  BoardController:190 - Wybrano sprawdzenie tablicy
+2022-12-19 16:34:46 INFO  Lose:45 - Sprawdzenie - przegrana.
+2022-12-19 16:35:45 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 16:35:45 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:35:45 INFO  BoardController:92 - Stworzono sudoku
+2022-12-19 16:37:04 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:37:04 INFO  BoardController:91 - Stworzono sudoku
+2022-12-19 16:37:50 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:37:50 INFO  BoardController:91 - Stworzono sudoku
+2022-12-19 16:37:53 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 16:37:53 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:37:53 INFO  BoardController:91 - Stworzono sudoku
+2022-12-19 16:38:48 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:38:48 INFO  BoardController:91 - Stworzono sudoku
+2022-12-19 16:38:50 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 16:38:50 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:38:50 INFO  BoardController:91 - Stworzono sudoku
+2022-12-19 16:40:16 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:40:16 INFO  BoardController:91 - Stworzono sudoku
+2022-12-19 16:42:18 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:42:18 INFO  BoardController:91 - Stworzono sudoku
+2022-12-19 16:42:20 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 16:42:20 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:42:20 INFO  BoardController:91 - Stworzono sudoku
+2022-12-19 16:45:01 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:45:01 INFO  BoardController:97 - Stworzono sudoku
+2022-12-19 16:45:04 INFO  Controller:143 - Wybrano jezyk angielski
+2022-12-19 16:45:04 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 16:45:04 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:45:04 INFO  BoardController:97 - Stworzono sudoku
+2022-12-19 16:46:20 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:46:20 INFO  BoardController:97 - Stworzono sudoku
+2022-12-19 16:46:24 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 16:46:24 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:46:24 INFO  BoardController:97 - Stworzono sudoku
+2022-12-19 16:47:26 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:47:26 INFO  BoardController:97 - Stworzono sudoku
+2022-12-19 16:47:28 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 16:47:29 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:47:29 INFO  BoardController:97 - Stworzono sudoku
+2022-12-19 16:49:39 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:49:39 INFO  BoardController:97 - Stworzono sudoku
+2022-12-19 16:49:41 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 16:49:41 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:49:41 INFO  BoardController:97 - Stworzono sudoku
+2022-12-19 16:49:52 INFO  Controller:151 - Wybrano jezyk polski
+2022-12-19 16:49:53 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:49:53 INFO  BoardController:97 - Stworzono sudoku
+2022-12-19 16:49:55 INFO  BoardController:170 - Wybrano sprawdzenie tablicy
+2022-12-19 16:49:55 INFO  Lose:45 - Sprawdzenie - przegrana.
+2022-12-19 16:49:59 INFO  Controller:143 - Wybrano jezyk angielski
+2022-12-19 16:50:00 INFO  Controller:131 - Zaladowano gre na poziomie srednim
+2022-12-19 16:50:00 INFO  BoardController:97 - Stworzono sudoku
+2022-12-19 16:50:02 INFO  BoardController:170 - Wybrano sprawdzenie tablicy
+2022-12-19 16:50:02 INFO  Lose:45 - Sprawdzenie - przegrana.
+2022-12-19 16:59:11 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 16:59:11 INFO  BoardController:97 - Stworzono sudoku
+2022-12-19 16:59:13 INFO  BoardController:170 - Wybrano sprawdzenie tablicy
+2022-12-19 16:59:13 INFO  Lose:45 - Sprawdzenie - przegrana.
+2022-12-19 17:01:15 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 17:01:15 INFO  BoardController:96 - Stworzono sudoku
+2022-12-19 17:01:17 INFO  Controller:144 - Wybrano jezyk polski
+2022-12-19 17:01:17 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 17:01:17 INFO  BoardController:96 - Stworzono sudoku
+2022-12-19 17:01:55 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 17:01:55 INFO  BoardController:96 - Stworzono sudoku
+2022-12-19 17:01:56 INFO  Controller:144 - Wybrano jezyk polski
+2022-12-19 17:01:57 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 17:01:57 INFO  BoardController:96 - Stworzono sudoku
+2022-12-19 17:02:09 INFO  Controller:136 - Wybrano jezyk angielski
+2022-12-19 17:02:09 INFO  Controller:144 - Wybrano jezyk polski
+2022-12-19 17:02:10 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 17:02:10 INFO  BoardController:96 - Stworzono sudoku
+2022-12-19 17:02:12 INFO  BoardController:169 - Wybrano sprawdzenie tablicy
+2022-12-19 17:02:12 INFO  Lose:45 - Sprawdzenie - przegrana.
+2022-12-19 17:02:14 INFO  Controller:136 - Wybrano jezyk angielski
+2022-12-19 17:02:14 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 17:02:14 INFO  BoardController:96 - Stworzono sudoku
+2022-12-19 17:02:15 INFO  BoardController:169 - Wybrano sprawdzenie tablicy
+2022-12-19 17:02:15 INFO  Lose:45 - Sprawdzenie - przegrana.
+2022-12-19 17:02:42 INFO  Controller:136 - Wybrano jezyk angielski
+2022-12-19 17:02:43 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 17:02:43 INFO  BoardController:96 - Stworzono sudoku
+2022-12-19 17:02:44 INFO  BoardController:169 - Wybrano sprawdzenie tablicy
+2022-12-19 17:02:44 INFO  Lose:46 - Sprawdzenie - przegrana.
+2022-12-19 17:02:46 INFO  Controller:144 - Wybrano jezyk polski
+2022-12-19 17:02:46 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 17:02:46 INFO  BoardController:96 - Stworzono sudoku
+2022-12-19 17:02:47 INFO  BoardController:169 - Wybrano sprawdzenie tablicy
+2022-12-19 17:02:47 INFO  Lose:46 - Sprawdzenie - przegrana.
+2022-12-19 17:03:28 INFO  Controller:144 - Wybrano jezyk polski
+2022-12-19 17:03:29 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 17:03:29 INFO  BoardController:96 - Stworzono sudoku
+2022-12-19 17:03:31 INFO  BoardController:169 - Wybrano sprawdzenie tablicy
+2022-12-19 17:03:31 INFO  Lose:46 - Sprawdzenie - przegrana.
+2022-12-19 17:03:57 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2022-12-19 17:03:57 INFO  BoardController:90 - Stworzono sudoku
+2022-12-19 17:04:00 INFO  BoardController:163 - Wybrano sprawdzenie tablicy
+2022-12-19 17:04:00 INFO  Lose:46 - Sprawdzenie - przegrana.
+2022-12-19 17:04:06 INFO  BoardController:105 - Zmiana pola z 0 na 
+2022-12-19 17:04:07 INFO  BoardController:105 - Zmiana pola z  na 3
+2022-12-19 17:04:08 INFO  BoardController:163 - Wybrano sprawdzenie tablicy
+2022-12-19 17:04:08 INFO  Win:47 - Sprawdzenie - wygrana.
+2022-12-19 17:04:40 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2022-12-19 17:04:40 INFO  BoardController:90 - Stworzono sudoku
+2022-12-19 17:04:45 INFO  BoardController:105 - Zmiana pola z 0 na 
+2022-12-19 17:04:47 INFO  BoardController:105 - Zmiana pola z  na 9
+2022-12-19 17:04:47 INFO  BoardController:105 - Zmiana pola z 9 na 98
+2022-12-19 17:04:48 INFO  BoardController:105 - Zmiana pola z 98 na 9
+2022-12-19 17:04:48 INFO  BoardController:105 - Zmiana pola z 9 na 
+2022-12-19 17:04:48 INFO  BoardController:105 - Zmiana pola z  na 7
+2022-12-19 17:04:50 INFO  BoardController:163 - Wybrano sprawdzenie tablicy
+2022-12-19 17:04:50 INFO  Win:47 - Sprawdzenie - wygrana.
+2022-12-19 17:04:53 INFO  Controller:144 - Wybrano jezyk polski
+2022-12-19 17:04:53 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2022-12-19 17:04:53 INFO  BoardController:90 - Stworzono sudoku
+2022-12-19 17:04:58 INFO  Controller:144 - Wybrano jezyk polski
+2022-12-19 17:04:58 INFO  Controller:136 - Wybrano jezyk angielski
+2022-12-19 17:04:59 INFO  Controller:144 - Wybrano jezyk polski
+2022-12-19 17:04:59 INFO  Controller:136 - Wybrano jezyk angielski
+2022-12-19 17:04:59 INFO  Controller:144 - Wybrano jezyk polski
+2022-12-19 17:05:00 INFO  Controller:136 - Wybrano jezyk angielski
+2022-12-19 17:06:33 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 17:06:33 INFO  BoardController:90 - Stworzono sudoku
+2022-12-19 17:06:37 INFO  BoardController:105 - Zmiana pola z 0 na 
+2022-12-19 17:06:38 INFO  BoardController:105 - Zmiana pola z  na 6
+2022-12-19 17:07:01 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2022-12-19 17:07:01 INFO  BoardController:90 - Stworzono sudoku
+2022-12-19 17:07:14 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2022-12-19 17:07:14 INFO  BoardController:90 - Stworzono sudoku
+2022-12-19 17:07:25 INFO  BoardController:105 - Zmiana pola z 0 na 
+2022-12-19 17:07:25 INFO  BoardController:105 - Zmiana pola z  na 9
+2022-12-19 17:07:30 INFO  BoardController:163 - Wybrano sprawdzenie tablicy
+2022-12-19 17:07:31 INFO  Win:47 - Sprawdzenie - wygrana.
+2022-12-19 17:07:33 INFO  BoardController:105 - Zmiana pola z 9 na 
+2022-12-19 17:07:33 INFO  BoardController:105 - Zmiana pola z  na \
+2022-12-19 17:07:33 INFO  BoardController:105 - Zmiana pola z \ na \8
+2022-12-19 17:07:34 INFO  BoardController:105 - Zmiana pola z \8 na \
+2022-12-19 17:07:34 INFO  BoardController:105 - Zmiana pola z \ na 
+2022-12-19 17:07:34 INFO  BoardController:105 - Zmiana pola z  na 8
+2022-12-19 17:07:35 INFO  BoardController:163 - Wybrano sprawdzenie tablicy
+2022-12-19 17:07:35 INFO  Lose:46 - Sprawdzenie - przegrana.
+2022-12-19 17:34:23 INFO  Controller:144 - Wybrano jezyk polski
+2022-12-19 17:34:25 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 17:34:25 INFO  BoardController:90 - Stworzono sudoku
+2022-12-19 17:34:25 INFO  BoardController:105 - Zmiana pola z 0 na 
+2022-12-19 17:34:33 INFO  BoardController:105 - Zmiana pola z  na 7
+2022-12-19 17:34:36 INFO  Controller:136 - Wybrano jezyk angielski
+2022-12-19 17:34:37 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 17:34:37 INFO  BoardController:90 - Stworzono sudoku
+2022-12-19 17:52:07 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 17:52:07 INFO  BoardController:96 - Stworzono sudoku
+2022-12-19 17:52:10 INFO  BoardController:111 - Zmiana pola z 0 na 
+2022-12-19 17:52:10 INFO  BoardController:111 - Zmiana pola z  na 4
+2022-12-19 17:52:11 INFO  BoardController:111 - Zmiana pola z 4 na 
+2022-12-19 17:53:07 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 17:53:07 INFO  BoardController:96 - Stworzono sudoku
+2022-12-19 17:53:29 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 17:53:29 INFO  BoardController:96 - Stworzono sudoku
+2022-12-19 17:53:40 INFO  BoardController:169 - Wybrano sprawdzenie tablicy
+2022-12-19 17:53:40 INFO  Lose:46 - Sprawdzenie - przegrana.
+2022-12-19 17:55:15 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2022-12-19 17:55:15 INFO  BoardController:96 - Stworzono sudoku
+2022-12-19 17:55:22 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 17:55:22 INFO  BoardController:96 - Stworzono sudoku
+2022-12-19 17:55:23 INFO  BoardController:169 - Wybrano sprawdzenie tablicy
+2022-12-19 17:55:23 INFO  Lose:46 - Sprawdzenie - przegrana.
+2022-12-19 17:55:27 INFO  Controller:144 - Wybrano jezyk polski
+2022-12-19 17:55:28 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2022-12-19 17:55:28 INFO  BoardController:96 - Stworzono sudoku
+2022-12-19 18:01:40 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 18:01:41 INFO  BoardController:98 - Stworzono sudoku
+2022-12-19 18:02:57 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 18:02:57 INFO  BoardController:98 - Stworzono sudoku
+2022-12-19 18:07:10 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2022-12-19 18:07:10 INFO  BoardController:98 - Stworzono sudoku
+2022-12-19 18:08:56 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 18:08:56 INFO  BoardController:99 - Stworzono sudoku
+2022-12-19 18:09:30 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2022-12-19 18:09:30 INFO  BoardController:99 - Stworzono sudoku
+2022-12-19 18:09:34 INFO  Controller:144 - Wybrano jezyk polski
+2022-12-19 18:09:35 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 18:09:35 INFO  BoardController:99 - Stworzono sudoku
+2022-12-19 18:10:04 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 18:10:04 INFO  BoardController:99 - Stworzono sudoku
+2022-12-19 18:14:13 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 18:14:13 INFO  BoardController:99 - Stworzono sudoku
+2022-12-19 18:19:15 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 18:19:15 INFO  BoardController:99 - Stworzono sudoku
+2022-12-19 18:19:22 INFO  BoardController:99 - Stworzono sudoku
+2022-12-19 18:19:33 INFO  BoardController:99 - Stworzono sudoku
+2022-12-19 18:19:46 INFO  BoardController:99 - Stworzono sudoku
+2022-12-19 18:20:51 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2022-12-19 18:20:51 INFO  BoardController:99 - Stworzono sudoku
+2022-12-19 18:20:52 INFO  BoardController:183 - Zapis do pliku
+2022-12-19 18:21:05 INFO  BoardController:190 - Wczytanie z pliku
+2022-12-19 18:21:10 INFO  BoardController:99 - Stworzono sudoku
+2022-12-19 18:23:35 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2022-12-19 18:23:35 INFO  BoardController:99 - Stworzono sudoku
+2022-12-19 18:23:37 INFO  BoardController:190 - Wczytanie z pliku
+2022-12-19 18:23:41 INFO  BoardController:99 - Stworzono sudoku
+2022-12-19 18:30:29 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 18:30:29 INFO  BoardController:99 - Stworzono sudoku
+2022-12-19 18:30:33 INFO  BoardController:183 - Zapis do pliku
+2022-12-19 18:31:24 INFO  Controller:144 - Wybrano jezyk polski
+2022-12-19 18:31:25 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 18:31:25 INFO  BoardController:99 - Stworzono sudoku
+2022-12-19 18:31:28 INFO  BoardController:172 - Wybrano sprawdzenie tablicy
+2022-12-19 18:31:29 INFO  Lose:46 - Sprawdzenie - przegrana.
+2022-12-19 18:32:33 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 18:32:33 INFO  BoardController:99 - Stworzono sudoku
+2022-12-19 18:32:35 INFO  BoardController:190 - Wczytanie z pliku
+2022-12-19 18:32:39 INFO  BoardController:99 - Stworzono sudoku
+2022-12-19 18:32:46 INFO  BoardController:172 - Wybrano sprawdzenie tablicy
+2022-12-19 18:32:46 INFO  Lose:46 - Sprawdzenie - przegrana.
+2022-12-19 18:40:18 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 18:40:18 INFO  BoardController:99 - Stworzono sudoku
+2022-12-19 18:40:25 INFO  Controller:144 - Wybrano jezyk polski
+2022-12-19 18:40:27 INFO  Controller:136 - Wybrano jezyk angielski
+2022-12-19 18:42:11 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 18:42:11 INFO  BoardController:99 - Stworzono sudoku
+2022-12-19 18:42:13 INFO  BoardController:183 - Zapis do pliku
+2022-12-19 18:42:21 INFO  Controller:144 - Wybrano jezyk polski
+2022-12-19 18:42:22 INFO  Controller:136 - Wybrano jezyk angielski
+2022-12-19 18:42:23 INFO  Controller:144 - Wybrano jezyk polski
+2022-12-19 18:42:24 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 18:42:24 INFO  BoardController:99 - Stworzono sudoku
+2022-12-19 18:42:26 INFO  BoardController:172 - Wybrano sprawdzenie tablicy
+2022-12-19 18:42:26 INFO  Lose:46 - Sprawdzenie - przegrana.
+2022-12-19 19:40:25 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2022-12-19 19:40:25 INFO  BoardController:99 - Stworzono sudoku
+2022-12-19 19:40:27 INFO  BoardController:183 - Zapis do pliku
+2023-01-06 19:27:35 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2023-01-06 19:27:35 INFO  BoardController:99 - Stworzono sudoku
+2023-01-06 23:53:17 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2023-01-06 23:53:17 INFO  BoardController:99 - Stworzono sudoku
+2023-01-07 19:50:41 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2023-01-07 19:50:42 INFO  BoardController:99 - Stworzono sudoku
+2023-01-07 19:50:47 INFO  BoardController:114 - Zmiana pola z 0 na 
+2023-01-07 19:50:48 INFO  BoardController:114 - Zmiana pola z  na 3
+2023-01-07 19:50:48 INFO  BoardController:114 - Zmiana pola z 3 na 
+2023-01-07 19:50:48 INFO  BoardController:114 - Zmiana pola z  na 4
+2023-01-07 19:50:49 INFO  BoardController:114 - Zmiana pola z 4 na 
+2023-01-07 19:50:49 INFO  BoardController:114 - Zmiana pola z  na 2
+2023-01-07 19:50:50 INFO  BoardController:114 - Zmiana pola z 2 na 
+2023-01-07 19:50:50 INFO  BoardController:114 - Zmiana pola z  na 1
+2023-01-07 19:50:51 INFO  BoardController:114 - Zmiana pola z 1 na 
+2023-01-07 19:50:56 INFO  Controller:144 - Wybrano jezyk polski
+2023-01-07 19:50:57 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2023-01-07 19:50:57 INFO  BoardController:99 - Stworzono sudoku
+2023-01-07 19:50:59 INFO  BoardController:114 - Zmiana pola z 0 na 
+2023-01-07 19:50:59 INFO  BoardController:114 - Zmiana pola z  na 2
+2023-01-07 19:51:00 INFO  BoardController:114 - Zmiana pola z 2 na 
+2023-01-07 19:51:00 INFO  BoardController:114 - Zmiana pola z  na 3
+2023-01-07 19:51:01 INFO  BoardController:114 - Zmiana pola z 3 na 
+2023-01-07 21:19:26 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-07 21:19:26 INFO  BoardController:106 - Stworzono sudoku
+2023-01-07 21:19:28 INFO  BoardController:208 - Blad
+2023-01-07 21:21:54 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-07 21:21:54 INFO  BoardController:106 - Stworzono sudoku
+2023-01-07 21:21:55 INFO  BoardController:208 - Blad2
+2023-01-07 21:43:53 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-07 21:43:53 INFO  BoardController:106 - Stworzono sudoku
+2023-01-07 21:43:54 INFO  BoardController:208 - Blad2
+2023-01-07 21:46:38 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-07 21:46:38 INFO  BoardController:106 - Stworzono sudoku
+2023-01-07 21:46:39 INFO  BoardController:221 - Blad2
+2023-01-07 21:48:36 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-07 21:48:36 INFO  BoardController:106 - Stworzono sudoku
+2023-01-07 21:48:39 ERROR BoardController:216 - Blad
+java.lang.NullPointerException: Cannot invoke "java.io.File.getName()" because "this.file" is null
+	at pl.comp.BoardController.saveGameButtonOn(BoardController.java:213)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.sun.javafx.reflect.Trampoline.invoke(MethodUtil.java:77)
+	at jdk.internal.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at javafx.base@19/com.sun.javafx.reflect.MethodUtil.invoke(MethodUtil.java:275)
+	at javafx.fxml@19/com.sun.javafx.fxml.MethodHelper.invoke(MethodHelper.java:84)
+	at javafx.fxml@19/javafx.fxml.FXMLLoader$MethodHandler.invoke(FXMLLoader.java:1854)
+	at javafx.fxml@19/javafx.fxml.FXMLLoader$ControllerMethodEventHandler.handle(FXMLLoader.java:1724)
+	at javafx.base@19/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+	at javafx.base@19/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234)
+	at javafx.base@19/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+	at javafx.base@19/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at javafx.base@19/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at javafx.base@19/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base@19/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base@19/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at javafx.base@19/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49)
+	at javafx.base@19/javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.graphics@19/javafx.scene.Node.fireEvent(Node.java:8923)
+	at javafx.controls@19/javafx.scene.control.Button.fire(Button.java:203)
+	at javafx.controls@19/com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:207)
+	at javafx.controls@19/com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274)
+	at javafx.base@19/com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247)
+	at javafx.base@19/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80)
+	at javafx.base@19/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234)
+	at javafx.base@19/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+	at javafx.base@19/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at javafx.base@19/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at javafx.base@19/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base@19/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base@19/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at javafx.base@19/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49)
+	at javafx.base@19/javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.graphics@19/javafx.scene.Scene$MouseHandler.process(Scene.java:3894)
+	at javafx.graphics@19/javafx.scene.Scene.processMouseEvent(Scene.java:1887)
+	at javafx.graphics@19/javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2620)
+	at javafx.graphics@19/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411)
+	at javafx.graphics@19/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at javafx.graphics@19/com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450)
+	at javafx.graphics@19/com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:424)
+	at javafx.graphics@19/com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449)
+	at javafx.graphics@19/com.sun.glass.ui.View.handleMouseEvent(View.java:551)
+	at javafx.graphics@19/com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at javafx.graphics@19/com.sun.glass.ui.win.WinApplication._enterNestedEventLoopImpl(Native Method)
+	at javafx.graphics@19/com.sun.glass.ui.win.WinApplication._enterNestedEventLoop(WinApplication.java:211)
+	at javafx.graphics@19/com.sun.glass.ui.Application.enterNestedEventLoop(Application.java:515)
+	at javafx.graphics@19/com.sun.glass.ui.EventLoop.enter(EventLoop.java:107)
+	at javafx.graphics@19/com.sun.javafx.tk.quantum.QuantumToolkit.enterNestedEventLoop(QuantumToolkit.java:631)
+	at javafx.graphics@19/javafx.stage.Stage.showAndWait(Stage.java:469)
+	at pl.comp.BoardController.showStage(BoardController.java:76)
+	at pl.comp.Controller.chooseEasy(Controller.java:103)
+	at pl.comp.Controller.lambda$initButtons$0(Controller.java:93)
+	at javafx.base@19/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:86)
+	at javafx.base@19/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234)
+	at javafx.base@19/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+	at javafx.base@19/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at javafx.base@19/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at javafx.base@19/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base@19/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base@19/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at javafx.base@19/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:49)
+	at javafx.base@19/javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.graphics@19/javafx.scene.Node.fireEvent(Node.java:8923)
+	at javafx.controls@19/javafx.scene.control.Button.fire(Button.java:203)
+	at javafx.controls@19/com.sun.javafx.scene.control.behavior.ButtonBehavior.mouseReleased(ButtonBehavior.java:207)
+	at javafx.controls@19/com.sun.javafx.scene.control.inputmap.InputMap.handle(InputMap.java:274)
+	at javafx.base@19/com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:247)
+	at javafx.base@19/com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80)
+	at javafx.base@19/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:234)
+	at javafx.base@19/com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+	at javafx.base@19/com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at javafx.base@19/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at javafx.base@19/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base@19/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19/com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at javafx.base@19/com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at javafx.base@19/com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at javafx.base@19/com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+	at javafx.base@19/javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.graphics@19/javafx.scene.Scene$MouseHandler.process(Scene.java:3894)
+	at javafx.graphics@19/javafx.scene.Scene.processMouseEvent(Scene.java:1887)
+	at javafx.graphics@19/javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2620)
+	at javafx.graphics@19/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:411)
+	at javafx.graphics@19/com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:301)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at javafx.graphics@19/com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:450)
+	at javafx.graphics@19/com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:424)
+	at javafx.graphics@19/com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:449)
+	at javafx.graphics@19/com.sun.glass.ui.View.handleMouseEvent(View.java:551)
+	at javafx.graphics@19/com.sun.glass.ui.View.notifyMouse(View.java:937)
+	at javafx.graphics@19/com.sun.glass.ui.win.WinApplication._enterNestedEventLoopImpl(Native Method)
+	at javafx.graphics@19/com.sun.glass.ui.win.WinApplication._enterNestedEventLoop(WinApplication.java:211)
+	at javafx.graphics@19/com.sun.glass.ui.Application.enterNestedEventLoop(Application.java:515)
+	at javafx.graphics@19/com.sun.glass.ui.EventLoop.enter(EventLoop.java:107)
+	at javafx.graphics@19/com.sun.javafx.tk.quantum.QuantumToolkit.enterNestedEventLoop(QuantumToolkit.java:631)
+	at javafx.graphics@19/javafx.stage.Stage.showAndWait(Stage.java:469)
+	at pl.comp.Controller.showStage(Controller.java:89)
+	at pl.comp.App.start(App.java:15)
+	at javafx.graphics@19/com.sun.javafx.application.LauncherImpl.lambda$launchApplication1$9(LauncherImpl.java:847)
+	at javafx.graphics@19/com.sun.javafx.application.PlatformImpl.lambda$runAndWait$12(PlatformImpl.java:484)
+	at javafx.graphics@19/com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:457)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+	at javafx.graphics@19/com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:456)
+	at javafx.graphics@19/com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at javafx.graphics@19/com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at javafx.graphics@19/com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:184)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-01-07 21:49:02 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-07 21:49:02 INFO  BoardController:106 - Stworzono sudoku
+2023-01-07 21:51:25 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-07 21:51:25 INFO  BoardController:106 - Stworzono sudoku
+2023-01-07 21:54:15 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-07 21:54:15 INFO  BoardController:106 - Stworzono sudoku
+2023-01-07 21:54:23 INFO  Controller:144 - Wybrano jezyk polski
+2023-01-07 21:54:25 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-07 21:54:25 INFO  BoardController:106 - Stworzono sudoku
+2023-01-07 22:03:35 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-07 22:03:35 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 00:33:21 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 00:33:21 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 00:48:14 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 00:48:14 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 01:25:47 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 01:25:47 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 13:06:31 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 13:06:31 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 13:08:12 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 13:08:12 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 13:09:55 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 13:09:55 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 13:10:53 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 13:10:53 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 13:22:49 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 13:22:49 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 13:23:40 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 13:23:40 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 13:33:29 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 13:33:29 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 13:35:12 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 13:35:12 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 13:40:23 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 13:40:23 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 13:42:58 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 13:42:58 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 14:02:45 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 14:02:45 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 14:06:28 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 14:06:28 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 14:07:25 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 14:07:25 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 14:10:00 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 14:10:00 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 14:12:18 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 14:12:18 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 14:14:08 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 14:14:08 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 14:14:19 INFO  BoardController:225 - Blad
+2023-01-08 14:46:44 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 14:46:44 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 14:51:23 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 14:51:23 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 14:55:07 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 14:55:07 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 14:58:07 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 14:58:07 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 14:58:39 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 14:58:39 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 15:00:19 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 15:00:19 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 15:01:22 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 15:01:22 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 15:02:46 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 15:02:46 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 15:04:06 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 15:04:06 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 15:09:22 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 15:09:22 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 15:13:30 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 15:13:30 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 15:15:45 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 15:15:45 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 15:31:42 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 15:31:42 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 15:41:11 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 15:41:11 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 15:41:51 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 15:41:51 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 15:47:05 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 15:47:05 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 16:06:51 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 16:06:52 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 16:06:55 INFO  BoardController:225 - NullPointer
+2023-01-08 16:07:08 INFO  BoardController:225 - NullPointer
+2023-01-08 16:08:49 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 16:08:49 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 16:08:52 INFO  BoardController:225 - NullPointer
+2023-01-08 16:09:54 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 16:09:54 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 16:09:57 INFO  BoardController:225 - NullPointer
+2023-01-08 16:11:12 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 16:11:12 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 16:11:54 INFO  BoardController:225 - NullPointer
+2023-01-08 16:11:58 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 16:11:58 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 16:13:14 INFO  BoardController:225 - NullPointer
+2023-01-08 16:13:18 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 16:13:18 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 16:15:54 INFO  BoardController:225 - NullPointer
+2023-01-08 16:15:58 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 16:15:58 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 16:19:53 INFO  BoardController:225 - NullPointer
+2023-01-08 16:19:57 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 16:19:57 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 16:20:45 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 16:20:45 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 16:22:15 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 16:22:15 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 16:25:31 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 16:25:31 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 16:26:35 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 16:26:35 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 16:33:02 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 16:33:02 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 16:33:22 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 16:33:22 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 16:34:18 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 16:34:18 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 16:35:18 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 16:35:18 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 16:46:22 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 16:46:22 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 16:46:43 INFO  BoardController:225 - NullPointer
+2023-01-08 16:47:04 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 16:47:04 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 17:01:56 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 17:01:56 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 17:12:41 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 17:12:41 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 17:16:58 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 17:16:58 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 17:18:48 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 17:18:48 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 17:23:13 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 17:23:13 INFO  BoardController:106 - Stworzono sudoku
+2023-01-08 17:41:32 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 17:41:32 INFO  BoardController:105 - Stworzono sudoku
+2023-01-08 17:43:49 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 17:43:50 INFO  BoardController:105 - Stworzono sudoku
+2023-01-08 17:45:24 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 17:45:24 INFO  BoardController:105 - Stworzono sudoku
+2023-01-08 17:47:25 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 17:47:25 INFO  BoardController:105 - Stworzono sudoku
+2023-01-08 17:47:44 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 17:47:44 INFO  BoardController:105 - Stworzono sudoku
+2023-01-08 17:53:10 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 17:53:10 INFO  BoardController:105 - Stworzono sudoku
+2023-01-08 17:55:10 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 17:55:11 INFO  BoardController:105 - Stworzono sudoku
+2023-01-08 17:56:12 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 17:56:12 INFO  BoardController:105 - Stworzono sudoku
+2023-01-08 17:57:45 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2023-01-08 17:57:45 INFO  BoardController:105 - Stworzono sudoku
+2023-01-08 18:06:52 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 18:06:52 INFO  BoardController:105 - Stworzono sudoku
+2023-01-08 18:07:28 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 18:07:28 INFO  BoardController:105 - Stworzono sudoku
+2023-01-08 18:08:39 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 18:08:39 INFO  BoardController:105 - Stworzono sudoku
+2023-01-08 18:09:34 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 18:09:34 INFO  BoardController:105 - Stworzono sudoku
+2023-01-08 18:10:03 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 18:10:03 INFO  BoardController:105 - Stworzono sudoku
+2023-01-08 18:10:36 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 18:10:36 INFO  BoardController:105 - Stworzono sudoku
+2023-01-08 18:11:03 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 18:11:03 INFO  BoardController:105 - Stworzono sudoku
+2023-01-08 18:12:00 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 18:12:00 INFO  BoardController:105 - Stworzono sudoku
+2023-01-08 18:14:25 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 18:14:25 INFO  BoardController:105 - Stworzono sudoku
+2023-01-08 18:15:49 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 18:15:49 INFO  BoardController:105 - Stworzono sudoku
+2023-01-08 18:18:26 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 18:18:26 INFO  BoardController:105 - Stworzono sudoku
+2023-01-08 18:38:13 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 18:38:13 INFO  BoardController:111 - Stworzono sudoku
+2023-01-08 18:38:25 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 18:38:25 INFO  BoardController:111 - Stworzono sudoku
+2023-01-08 18:45:33 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 18:45:33 INFO  BoardController:115 - Stworzono sudoku
+2023-01-08 18:47:37 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 18:47:37 INFO  BoardController:116 - Stworzono sudoku
+2023-01-08 18:49:45 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 18:49:45 INFO  BoardController:116 - Stworzono sudoku
+2023-01-08 18:51:41 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 18:51:41 INFO  BoardController:116 - Stworzono sudoku
+2023-01-08 18:53:04 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 18:53:04 INFO  BoardController:116 - Stworzono sudoku
+2023-01-08 18:53:46 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 18:53:46 INFO  BoardController:116 - Stworzono sudoku
+2023-01-08 18:54:48 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 18:54:48 INFO  BoardController:116 - Stworzono sudoku
+2023-01-08 18:55:55 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 18:55:55 INFO  BoardController:116 - Stworzono sudoku
+2023-01-08 18:57:00 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 18:57:00 INFO  BoardController:116 - Stworzono sudoku
+2023-01-08 18:58:03 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 18:58:03 INFO  BoardController:116 - Stworzono sudoku
+2023-01-08 18:58:35 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 18:58:35 INFO  BoardController:116 - Stworzono sudoku
+2023-01-08 18:59:20 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 18:59:20 INFO  BoardController:116 - Stworzono sudoku
+2023-01-08 19:00:04 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 19:00:04 INFO  BoardController:116 - Stworzono sudoku
+2023-01-08 19:06:08 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 19:06:08 INFO  BoardController:118 - Stworzono sudoku
+2023-01-08 19:06:18 INFO  BoardController:118 - Stworzono sudoku
+2023-01-08 19:10:27 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 19:10:27 INFO  BoardController:118 - Stworzono sudoku
+2023-01-08 19:11:12 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 19:11:12 INFO  BoardController:118 - Stworzono sudoku
+2023-01-08 19:11:32 INFO  BoardController:118 - Stworzono sudoku
+2023-01-08 19:11:40 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2023-01-08 19:11:40 INFO  BoardController:118 - Stworzono sudoku
+2023-01-08 19:11:57 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2023-01-08 19:11:57 INFO  BoardController:118 - Stworzono sudoku
+2023-01-08 19:12:02 INFO  BoardController:118 - Stworzono sudoku
+2023-01-08 19:12:04 INFO  BoardController:136 - Zmiana pola z 0 na 0d
+2023-01-08 19:13:07 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2023-01-08 19:13:07 INFO  BoardController:118 - Stworzono sudoku
+2023-01-08 19:13:17 INFO  BoardController:118 - Stworzono sudoku
+2023-01-08 19:13:27 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2023-01-08 19:13:27 INFO  BoardController:118 - Stworzono sudoku
+2023-01-08 19:13:41 INFO  BoardController:118 - Stworzono sudoku
+2023-01-08 19:18:02 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2023-01-08 19:18:03 INFO  BoardController:118 - Stworzono sudoku
+2023-01-08 19:18:36 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 19:18:36 INFO  BoardController:118 - Stworzono sudoku
+2023-01-08 19:19:44 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 19:19:44 INFO  BoardController:118 - Stworzono sudoku
+2023-01-08 19:25:50 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 19:25:50 INFO  BoardController:119 - Stworzono sudoku
+2023-01-08 19:28:10 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2023-01-08 19:28:10 INFO  BoardController:119 - Stworzono sudoku
+2023-01-08 20:55:20 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 20:55:20 INFO  BoardController:119 - Stworzono sudoku
+2023-01-08 20:55:32 INFO  BoardController:119 - Stworzono sudoku
+2023-01-08 20:58:01 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 20:58:01 INFO  BoardController:119 - Stworzono sudoku
+2023-01-08 21:01:36 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 21:01:38 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 21:02:40 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 21:02:42 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2023-01-08 21:02:55 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 21:02:55 INFO  BoardController:119 - Stworzono sudoku
+2023-01-08 21:03:48 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2023-01-08 21:04:40 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2023-01-08 21:04:40 INFO  BoardController:120 - Stworzono sudoku
+2023-01-08 21:05:42 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2023-01-08 21:07:06 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2023-01-08 21:07:49 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2023-01-08 21:07:49 INFO  BoardController:121 - Stworzono sudoku
+2023-01-08 21:08:51 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2023-01-08 21:08:51 INFO  BoardController:121 - Stworzono sudoku
+2023-01-08 21:08:54 INFO  Controller:144 - Wybrano jezyk polski
+2023-01-08 21:08:55 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2023-01-08 21:08:55 INFO  BoardController:121 - Stworzono sudoku
+2023-01-08 21:20:40 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 21:20:40 INFO  BoardController:121 - Stworzono sudoku
+2023-01-08 21:20:42 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2023-01-08 21:20:42 INFO  BoardController:121 - Stworzono sudoku
+2023-01-08 21:21:52 INFO  BoardController:121 - Stworzono sudoku
+2023-01-08 21:21:58 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2023-01-08 21:21:58 INFO  BoardController:121 - Stworzono sudoku
+2023-01-08 21:22:05 INFO  BoardController:121 - Stworzono sudoku
+2023-01-08 21:22:10 INFO  BoardController:121 - Stworzono sudoku
+2023-01-08 21:22:15 INFO  BoardController:121 - Stworzono sudoku
+2023-01-08 21:22:23 INFO  BoardController:121 - Stworzono sudoku
+2023-01-08 21:22:33 INFO  BoardController:121 - Stworzono sudoku
+2023-01-08 21:22:50 INFO  BoardController:121 - Stworzono sudoku
+2023-01-08 21:23:33 INFO  BoardController:121 - Stworzono sudoku
+2023-01-08 21:24:32 INFO  BoardController:121 - Stworzono sudoku
+2023-01-08 21:25:09 INFO  BoardController:121 - Stworzono sudoku
+2023-01-08 21:32:47 INFO  BoardController:121 - Stworzono sudoku
+2023-01-08 21:35:23 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-08 21:35:23 INFO  BoardController:121 - Stworzono sudoku
+2023-01-08 21:36:27 INFO  BoardController:121 - Stworzono sudoku
+2023-01-08 21:36:50 INFO  BoardController:121 - Stworzono sudoku
+2023-01-08 21:38:17 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2023-01-08 21:38:17 INFO  BoardController:121 - Stworzono sudoku
+2023-01-08 21:38:28 INFO  BoardController:121 - Stworzono sudoku
+2023-01-08 21:52:04 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2023-01-08 21:52:04 INFO  BoardController:121 - Stworzono sudoku
+2023-01-08 21:59:08 INFO  Controller:112 - Zaladowano gre na poziomie trudnym
+2023-01-08 21:59:08 INFO  BoardController:121 - Stworzono sudoku
+2023-01-08 21:59:46 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2023-01-08 21:59:46 INFO  BoardController:121 - Stworzono sudoku
+2023-01-08 22:06:06 INFO  Controller:124 - Zaladowano gre na poziomie srednim
+2023-01-08 22:06:06 INFO  BoardController:121 - Stworzono sudoku
+2023-01-09 00:06:57 INFO  Controller:125 - Zaladowano gre na poziomie srednim
+2023-01-09 00:06:57 INFO  BoardController:112 - Stworzono sudoku
+2023-01-09 00:10:40 INFO  Controller:125 - Zaladowano gre na poziomie srednim
+2023-01-09 00:10:40 INFO  BoardController:112 - Stworzono sudoku
+2023-01-09 00:10:43 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-09 00:10:43 INFO  BoardController:112 - Stworzono sudoku
+2023-01-09 11:33:21 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-09 11:33:21 INFO  BoardController:112 - Stworzono sudoku
+2023-01-09 14:23:50 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-09 14:23:50 INFO  BoardController:112 - Stworzono sudoku
+2023-01-09 14:37:35 INFO  Controller:125 - Zaladowano gre na poziomie srednim
+2023-01-09 14:37:35 INFO  BoardController:112 - Stworzono sudoku
+2023-01-09 14:37:40 INFO  BoardController:132 - Zmiana pola z 0 na 
+2023-01-09 14:37:40 INFO  BoardController:132 - Zmiana pola z  na 5
+2023-01-09 15:02:15 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-09 15:02:15 INFO  BoardController:112 - Stworzono sudoku
+2023-01-09 15:03:08 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-09 15:03:08 INFO  BoardController:112 - Stworzono sudoku
+2023-01-09 15:08:41 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-09 15:08:41 INFO  BoardController:112 - Stworzono sudoku
+2023-01-09 15:16:28 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-09 15:16:28 INFO  BoardController:112 - Stworzono sudoku
+2023-01-09 15:16:54 INFO  Controller:100 - Zaladowano gre na poziomie latwym
+2023-01-09 15:16:54 INFO  BoardController:112 - Stworzono sudoku
+2023-01-09 15:17:01 INFO  BoardController:132 - Zmiana pola z 0 na 
+2023-01-09 15:24:02 INFO  Controller:122 - Zaladowano gre na poziomie srednim
+2023-01-09 15:24:02 INFO  BoardController:112 - Stworzono sudoku
+2023-01-09 15:24:55 INFO  BoardController:212 - Zapis do pliku
+2023-01-09 15:24:57 INFO  BoardController:220 - Wczytanie z pliku
+2023-01-09 15:45:21 INFO  Controller:122 - Zaladowano gre na poziomie srednim
+2023-01-09 15:45:21 INFO  BoardController:112 - Stworzono sudoku
+2023-01-09 16:20:26 INFO  Controller:122 - Zaladowano gre na poziomie srednim
+2023-01-09 16:20:26 INFO  BoardController:112 - Stworzono sudoku
+2023-01-09 16:23:02 INFO  Controller:122 - Zaladowano gre na poziomie srednim
+2023-01-09 16:23:02 INFO  BoardController:112 - Stworzono sudoku
+2023-01-09 16:23:59 INFO  Controller:122 - Zaladowano gre na poziomie srednim
+2023-01-09 16:23:59 INFO  BoardController:112 - Stworzono sudoku
+2023-01-09 16:41:33 INFO  Controller:99 - Zaladowano gre na poziomie latwym
+2023-01-09 16:41:33 INFO  BoardController:112 - Stworzono sudoku
+2023-01-09 16:56:06 INFO  Controller:122 - Zaladowano gre na poziomie srednim
+2023-01-09 16:56:06 INFO  BoardController:112 - Stworzono sudoku
+2023-01-09 17:10:56 INFO  Controller:122 - Zaladowano gre na poziomie srednim
+2023-01-09 17:10:56 INFO  BoardController:112 - Stworzono sudoku
+2023-01-09 17:11:17 INFO  Controller:122 - Zaladowano gre na poziomie srednim
+2023-01-09 17:11:17 INFO  BoardController:112 - Stworzono sudoku
+2023-01-09 17:11:49 INFO  Controller:122 - Zaladowano gre na poziomie srednim
+2023-01-09 17:11:49 INFO  BoardController:112 - Stworzono sudoku
+2023-01-09 17:34:42 INFO  Controller:122 - Zaladowano gre na poziomie srednim
+2023-01-09 17:34:42 INFO  BoardController:112 - Stworzono sudoku
+2023-01-09 17:47:32 INFO  Controller:122 - Zaladowano gre na poziomie srednim
+2023-01-09 17:47:32 INFO  BoardController:112 - Stworzono sudoku
